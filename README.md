@@ -1,12 +1,11 @@
+# Live Demo
+
+[Check out the live app here!](https://chat-app-8og2.onrender.com/)
+
 # ✨ Fullstack Chat & Video Calling App ✨
 
 A modern, scalable real-time chat and video calling application with authentication, language exchange, and a beautiful themed UI.
 
----
-
-## Demo App
-
----
 
 ## Highlights
 
@@ -106,10 +105,3 @@ npm run dev
   - `npm run build` — Build for production
 
 ---
-
-## License
-MIT
-
----
-
-> **Note:** Some features (video calling, group calls, screen sharing, recording, language exchange, UI themes, Zustand, TanStack Query, Stream integration) are listed as highlights. Please check the codebase to confirm which are fully implemented and which are planned/aspirational. 
