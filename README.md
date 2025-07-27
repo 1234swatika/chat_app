@@ -105,3 +105,5 @@ npm run dev
   - `npm run build` — Build for production
 
 ---
+
+> **Note:** Some features (video calling, group calls, screen sharing, recording, language exchange, UI themes, Zustand, TanStack Query, Stream integration) are listed as highlights. Please check the codebase to confirm which are fully implemented and which are planned/aspirational.
